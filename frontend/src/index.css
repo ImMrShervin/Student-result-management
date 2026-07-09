@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { font-family: 'Inter', system-ui, sans-serif; }
+html[dir="rtl"] { font-family: 'Vazirmatn', 'Tahoma', sans-serif; }
+
+.card { @apply bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 p-5; }
+.btn { @apply inline-flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition; }
+.btn-primary { @apply btn bg-brand-600 text-white hover:bg-brand-700; }
+.btn-secondary { @apply btn bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600; }
+.btn-danger { @apply btn bg-red-600 text-white hover:bg-red-700; }
+.input { @apply w-full px-3 py-2 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 focus:ring-2 focus:ring-brand-500 focus:outline-none; }
+.label { @apply block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1; }
+.table { @apply min-w-full divide-y divide-slate-200 dark:divide-slate-700; }
+.table th { @apply px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 bg-slate-50 dark:bg-slate-800; }
+.table td { @apply px-4 py-3 text-sm; }
+.table tr { @apply hover:bg-slate-50 dark:hover:bg-slate-800/50; }
+.badge { @apply inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium; }
+
+.skeleton { @apply animate-pulse bg-slate-200 dark:bg-slate-700 rounded; }

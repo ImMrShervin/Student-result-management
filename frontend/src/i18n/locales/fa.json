@@ -1,0 +1,55 @@
+{
+  "app_name": "سامانه نتایج",
+  "app_tagline": "سامانه مدیریت نتایج دانشجویی",
+  "nav": {
+    "dashboard": "داشبورد",
+    "students": "دانشجویان",
+    "teachers": "اساتید",
+    "faculties": "دانشکده‌ها",
+    "departments": "دپارتمان‌ها",
+    "courses": "دروس",
+    "enrollments": "ثبت‌نام‌ها",
+    "grades": "نمرات",
+    "transcripts": "کارنامه‌ها",
+    "reports": "گزارش‌ها",
+    "announcements": "اطلاعیه‌ها",
+    "settings": "تنظیمات"
+  },
+  "auth": {
+    "login": "ورود",
+    "logout": "خروج",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "welcome_back": "خوش آمدید",
+    "signing_in": "در حال ورود..."
+  },
+  "dashboard": {
+    "welcome": "خوش آمدید",
+    "overview": "نمای کلی",
+    "top_students": "دانشجویان برتر",
+    "grade_distribution": "توزیع نمرات",
+    "avg_gpa_by_department": "میانگین معدل به تفکیک دپارتمان",
+    "academic_status": "وضعیت تحصیلی"
+  },
+  "stats": {
+    "students": "دانشجویان",
+    "teachers": "اساتید",
+    "courses": "دروس",
+    "faculties": "دانشکده‌ها",
+    "departments": "دپارتمان‌ها",
+    "enrollments": "ثبت‌نام‌ها",
+    "published_grades": "نمرات منتشر شده"
+  },
+  "common": {
+    "search": "جستجو",
+    "filter": "فیلتر",
+    "add": "افزودن",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "save": "ذخیره",
+    "cancel": "انصراف",
+    "loading": "در حال بارگذاری...",
+    "no_data": "داده‌ای موجود نیست",
+    "actions": "عملیات"
+  }
+}

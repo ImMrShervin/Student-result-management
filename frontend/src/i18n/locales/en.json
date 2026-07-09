@@ -1,0 +1,55 @@
+{
+  "app_name": "SRMS",
+  "app_tagline": "Student Result Management System",
+  "nav": {
+    "dashboard": "Dashboard",
+    "students": "Students",
+    "teachers": "Teachers",
+    "faculties": "Faculties",
+    "departments": "Departments",
+    "courses": "Courses",
+    "enrollments": "Enrollments",
+    "grades": "Grades",
+    "transcripts": "Transcripts",
+    "reports": "Reports",
+    "announcements": "Announcements",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "welcome_back": "Welcome back",
+    "signing_in": "Signing in..."
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "overview": "Overview",
+    "top_students": "Top Students",
+    "grade_distribution": "Grade Distribution",
+    "avg_gpa_by_department": "Average GPA by Department",
+    "academic_status": "Academic Status"
+  },
+  "stats": {
+    "students": "Students",
+    "teachers": "Teachers",
+    "courses": "Courses",
+    "faculties": "Faculties",
+    "departments": "Departments",
+    "enrollments": "Enrollments",
+    "published_grades": "Published Grades"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "no_data": "No data",
+    "actions": "Actions"
+  }
+}
