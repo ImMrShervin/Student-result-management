@@ -177,7 +177,7 @@ srms/
 Requirements: **Docker**, **Docker Compose**, **~2 GB free RAM**.
 
 ```bash
-git clone <this-repo> srms && cd srms
+git clone https://github.com/ImMrShervin/Student-result-management.git srms && cd srms
 
 # 1. Backend env
 cp backend/.env.example backend/.env
