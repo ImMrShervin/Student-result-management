@@ -25,7 +25,7 @@ function RedirectIfAuth({ children }: { children: JSX.Element }) {
   if (token) return <Navigate to="/dashboard" replace />;
   return children;
 }
-<!--A-->
+
 export default function App() {
   const token = useAuth((s) => s.token);
   const fetchMe = useAuth((s) => s.fetchMe);
