@@ -5,7 +5,6 @@
   Laravel 12 · PHP 8.4 · MySQL 8 · Redis · React 18 · TypeScript · TailwindCSS · Docker
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12-red?logo=laravel" />
   <img src="https://img.shields.io/badge/PHP-8.4-777bb4?logo=php" />
