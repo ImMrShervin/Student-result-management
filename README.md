@@ -41,6 +41,7 @@
 - 🏆 **Automatic academic status** — Excellent / Passed / Conditional / Probation / Failed / Graduated / Dismissed
 - 📜 **Signed PDF transcripts** with **QR verification** + public verification page
 
+
 ### Platform
 - 🔐 **Laravel Sanctum** — SPA session + bearer PAT tokens with expiry
 - 👥 **RBAC (Spatie)** — Super Admin, Admin, Dean, Department Head, Teacher, Student
