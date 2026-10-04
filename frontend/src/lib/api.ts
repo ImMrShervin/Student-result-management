@@ -6,8 +6,6 @@ export const api = axios.create({
   headers: { Accept: 'application/json' },
 });
 
-
-
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('srms_token');
   if (token) {
